@@ -1,5 +1,2 @@
  Complete JavaScript Course
 
-
-
- 
